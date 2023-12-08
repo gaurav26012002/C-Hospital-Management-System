@@ -1,2 +1,1 @@
-# C-Hospital-Management-System
-C-Hospital-Management-System--main
+# C-Hospital-Management-System-
